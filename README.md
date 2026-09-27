@@ -1,6 +1,7 @@
 # Pac-Man Multi-Agent Lab
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB)
+
 Projet Python basé sur le framework Pac-Man de UC Berkeley, pour comparer plusieurs façons de faire décider Pac-Man de son prochain coup : réagir à l'instant présent, anticiper le pire cas face aux fantômes, ou raisonner sur des probabilités.
 
 ---
